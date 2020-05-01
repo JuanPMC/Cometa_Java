@@ -1,0 +1,5 @@
+Saul Lintz
+Cargo: Director
+Edad: 50
+Habilidad: 60.0
+Percel: No
